@@ -4,7 +4,7 @@
 
 ## Brandon Iticka
 
-## (placeholder)
+## https://itbrandon.github.io/cpnt260-a3-full-page-layout/
 
 ## I added a social media navigation in footer
 

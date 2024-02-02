@@ -96,7 +96,7 @@ nav ul li a:hover {
 .bar {  
   width: 30px;   
   height: 2px;   
-  background-color: var(--LIGHT-COLOR);  
+  background-color: var(--FONT-COLOR);  
   margin: 6px 0;   
  } 
 
