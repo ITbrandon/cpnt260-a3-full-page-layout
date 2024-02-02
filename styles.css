@@ -39,25 +39,25 @@ nav {
   top: 0;
 }
 
-nav h1 a {
+nav .title a {
   color: var(--FONT-COLOR);
   text-decoration: none;
 }
 
 
-nav ul {
+nav .list {
   display: none;
   gap: 1rem;
   list-style-type: none;
 }
 
-nav ul li a {
+nav .list li a {
   text-decoration: none;
   color: var(--FONT-COLOR);
   transition: 0.4s;
 }
 
-nav ul li a:hover {
+nav .list li a:hover {
   color: var(--FONT-HOVER-COLOR);
 }
 
@@ -214,6 +214,10 @@ footer {
   padding: 1.5rem;
 }
 
+footer p {
+  line-height: 1.6;
+}
+
 .social-icons {
   display: flex;
   justify-content: center;
@@ -249,7 +253,7 @@ footer {
     display: flex;
   }
 
-  nav ul {
+  nav .list {
     display: flex;
   }
 
