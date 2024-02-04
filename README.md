@@ -8,4 +8,4 @@
 
 ## I added a social media navigation in footer
 
-### All Images are not owned by me
+### All Photos are taken from Google Images none are owned by me
